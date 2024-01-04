@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criptografia", "Criptografia\Criptografia.csproj", "{6ED91CA9-F6BD-4731-83B8-7FAAACC97E4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{73402DDD-12D7-4459-9209-23E60B6EE714}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Livro", "Livro\Livro.csproj", "{774E3963-87AB-426A-BFB9-4379345CF46F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED91CA9-F6BD-4731-83B8-7FAAACC97E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED91CA9-F6BD-4731-83B8-7FAAACC97E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED91CA9-F6BD-4731-83B8-7FAAACC97E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED91CA9-F6BD-4731-83B8-7FAAACC97E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73402DDD-12D7-4459-9209-23E60B6EE714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73402DDD-12D7-4459-9209-23E60B6EE714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73402DDD-12D7-4459-9209-23E60B6EE714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73402DDD-12D7-4459-9209-23E60B6EE714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774E3963-87AB-426A-BFB9-4379345CF46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774E3963-87AB-426A-BFB9-4379345CF46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774E3963-87AB-426A-BFB9-4379345CF46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774E3963-87AB-426A-BFB9-4379345CF46F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {444845B6-F92D-44BD-9905-61937B3139A6}
+	EndGlobalSection
+EndGlobal
